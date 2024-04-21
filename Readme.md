@@ -38,7 +38,7 @@ Tom Bellenger,
 David Barron,
 Joe Moganam,
 Jose Rivera,
-Lydia Loy
+Lydia L
 
 ## Resources
 
